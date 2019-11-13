@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/GraphQL-Movie-App/static/js/main.51c3517b.chunk.js",
+    "main.js.map": "/GraphQL-Movie-App/static/js/main.51c3517b.chunk.js.map",
+    "runtime-main.js": "/GraphQL-Movie-App/static/js/runtime-main.d9ec30b1.js",
+    "runtime-main.js.map": "/GraphQL-Movie-App/static/js/runtime-main.d9ec30b1.js.map",
+    "static/js/2.d6796466.chunk.js": "/GraphQL-Movie-App/static/js/2.d6796466.chunk.js",
+    "static/js/2.d6796466.chunk.js.map": "/GraphQL-Movie-App/static/js/2.d6796466.chunk.js.map",
+    "index.html": "/GraphQL-Movie-App/index.html",
+    "precache-manifest.4c7ce62b28110eb8542d407a64c4b21b.js": "/GraphQL-Movie-App/precache-manifest.4c7ce62b28110eb8542d407a64c4b21b.js",
+    "service-worker.js": "/GraphQL-Movie-App/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9ec30b1.js",
+    "static/js/2.d6796466.chunk.js",
+    "static/js/main.51c3517b.chunk.js"
+  ]
+}
